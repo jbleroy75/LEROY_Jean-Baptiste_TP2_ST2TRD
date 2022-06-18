@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2oXAvBQuoLFgOmdW00wBKHWL48qH3sFzYHzQYShcvv5iHH6wBgJAXBJ6hxLi3DN0Xw0jWH4Wzg3kMbPJ/5OqFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomol\\source\\repos\\OpenWeather\\OpenWeather\\OpenWeather.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomol\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\tomol\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.17\\microsoft.netcore.app.runtime.win-x86.5.0.17.nupkg.sha512",
+    "C:\\Users\\tomol\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.17\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.17.nupkg.sha512",
+    "C:\\Users\\tomol\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.17\\microsoft.aspnetcore.app.runtime.win-x86.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

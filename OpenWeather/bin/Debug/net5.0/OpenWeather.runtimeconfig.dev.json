@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/jean-baptisteleroy/.dotnet/store/|arch|/|tfm|",
+      "/Users/jean-baptisteleroy/.nuget/packages"
+    ]
+  }
+}

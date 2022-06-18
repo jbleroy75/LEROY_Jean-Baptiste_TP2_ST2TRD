@@ -1,0 +1,6 @@
+C:\Users\tomol\source\repos\OpenWeather\OpenWeather\bin\Release\net5.0\publish\win-x86\OpenWeather.pdb
+C:\Users\tomol\source\repos\OpenWeather\OpenWeather\bin\Release\net5.0\publish\win-x86\clrcompression.dll
+C:\Users\tomol\source\repos\OpenWeather\OpenWeather\bin\Release\net5.0\publish\win-x86\clrjit.dll
+C:\Users\tomol\source\repos\OpenWeather\OpenWeather\bin\Release\net5.0\publish\win-x86\coreclr.dll
+C:\Users\tomol\source\repos\OpenWeather\OpenWeather\bin\Release\net5.0\publish\win-x86\mscordaccore.dll
+C:\Users\tomol\source\repos\OpenWeather\OpenWeather\bin\Release\net5.0\publish\win-x86\OpenWeather.exe
